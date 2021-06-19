@@ -1,6 +1,8 @@
 # My-Csharp-projects by Neo
 
 
-Here are little scripts thad I maked 
+Here are little scripts thad I maked.
 
-And there are other script comming there are not extraordinary i am just learnig c# ;)
+There are other script comming soon.
+
+They are not extraordinary i am just learnig c# 
