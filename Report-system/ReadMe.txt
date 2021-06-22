@@ -1,4 +1,4 @@
-My new report script by Neo / Péèlo#2482
+#My new report script by Neo / Péèlo#2482
 
 Inspired by valorant
 
