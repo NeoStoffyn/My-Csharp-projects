@@ -1,0 +1,131 @@
+body {
+    background: none !important;
+    font-family: 'Lexend Deca', sans-serif;
+}
+
+#container {
+
+    font-size: 20px;
+    padding: 25px;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+    height: 500px;
+    width: 500px;
+
+
+    background: rgba(52, 73, 94, 0.9);
+
+    border: 0px solid rgb(50, 50, 50);
+}
+
+
+
+#checkbox {
+    color: white;
+    text-shadow: grey;
+    position: fixed;
+    top: 20%;
+    left: 10%;
+   
+}
+
+#check {
+    margin-top: 10%;
+}
+
+#container2 {
+    position: fixed;
+    top: 60%;
+    left: 10%;
+    width: 440;
+    height: 400;
+}
+
+label2 {
+  position: fixed;
+  left: 10%;
+  color: lightgray;
+  font-size: 15;
+  }
+
+button {
+
+    text-align: center;
+    width: 100px;
+    font-size: 12px;
+    background: grey;
+    border: 0px solid white;
+    transition: box-shadow 0.2s ease-in, background 0.2s ease-in;
+    padding: 5px; 
+    color: white; 
+}
+
+
+#input{
+    position: relative;
+    margin-top: 3%;
+    padding: 5px;
+    height: 15%; 
+    width: 100%;  
+    min-height: 5em;
+    min-width: 100%;
+    max-height: 8em;
+    max-width: 100%;
+    outline:none;
+    font-size: 12px;
+    background: rgb(204, 204, 204);
+    color: white;
+    padding: 10px 15px;
+    font-size: 15;    
+    border-radius: 6px; 
+    color: black;
+}
+
+#sumbit{
+    position: fixed;
+    width:220px;
+    height: 50px;
+    top: 90%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 20;
+	color: black;;
+}
+
+button:hover{
+    background: lightslategray;
+}
+
+
+.deleteMeetingClose {
+    font-size: 2em;
+    cursor: grab;
+    position: absolute;
+    right: 20px;
+    top: 10px;
+    color: lightgray;
+    
+}
+
+h1 {
+    position: fixed;
+    top: 1%;
+    color :white;
+    font-size: 30;
+    font-weight: 10;
+}
+
+h2 {
+    position: fixed;
+    top: 10%;
+    color: lightgray;
+    font-size: 17;
+    font-weight: 50; 
+}
+
+
+
+ 
